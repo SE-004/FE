@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.main-header {
+  color: red;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: blueviolet;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
